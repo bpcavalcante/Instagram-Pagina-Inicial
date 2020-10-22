@@ -1,4 +1,4 @@
-# Pagina inicial do Instagram ![Icone HTML5](https://i.imgur.com/gWsSQUB.png)
+# Pagina inicial do Instagram 
 
 ### Tecnologias Utilizadas:
  - ![Icone HTML5](https://i.imgur.com/1uU0UOw.png) HTML5
