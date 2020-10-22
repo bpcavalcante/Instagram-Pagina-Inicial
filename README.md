@@ -1,7 +1,7 @@
 # Pagina inicial do Instagram
 
 ### Tecnologias Utilizadas:
- - ![Icone HTML5](https://i.imgur.com/1SwEfrh.png) HTML5
+ - ![Icone HTML5](https://i.imgur.com/5kkY8Qi.png) HTML5
  - CSS3
 
 
