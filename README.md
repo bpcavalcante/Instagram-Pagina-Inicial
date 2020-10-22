@@ -6,4 +6,4 @@
 
 
 
-![Pagina inicial do Instagram](https://i.imgur.com/W7EEJr4.png)
+![Pagina inicial do Instagram](https://i.imgur.com/FN4mfW2.png)
