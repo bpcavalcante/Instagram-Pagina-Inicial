@@ -1,6 +1,6 @@
 # Pagina inicial do Instagram
 
-###Tecnologias Utilizadas:
+##Tecnologias Utilizadas:
  - HTML5
  - CSS3
 
