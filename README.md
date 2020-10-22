@@ -1,6 +1,8 @@
-# Instagram-Pagina-Inicial
-Página inicial do Instagram desenvolvido em HTML E CSS
+# Pagina inicial do Instagram
 
-## Pagina inicial do Instagram
+###Tecnologias Utilizadas:
+ - HTML5
+ - CSS3
 
-![Página inicial do instagram](Instagram-Pagina-Inicial/Instagram/assets/img/insta.png)
+
+
