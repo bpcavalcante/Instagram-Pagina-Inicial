@@ -2,7 +2,7 @@
 
 ### Tecnologias Utilizadas:
  - ![Icone HTML5](https://i.imgur.com/xjRWbaY.png) HTML5 
- - CSS3
+ - ![Icone HTML5](https://i.imgur.com/mPHYtdO.png) CSS3
 
 
 
